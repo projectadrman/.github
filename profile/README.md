@@ -1,1 +1,1 @@
-![Draft](draft.png)
+![Draft](./draft.png)
